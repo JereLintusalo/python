@@ -1,0 +1,20 @@
+#Harjoitus 1 
+# A)
+print("Jere Lintusalo")
+# B)
+print("Jere Lintusalo")
+print("Olen 21 vuotias")
+# C)
+print("Nimeni on Jere Lintusalo ja olen 21 vuotias")
+# D)
+nimi = input("Minun nimi on: ")
+ika = input("Minun ikäni on: ")
+
+print("Nimeni on", nimi)
+print("Ikäni on", ika)
+print("Nimeni on", nimi, "ja ikäni on", ika)
+# E)
+nimi2 = input("Mikä nimesi on: ")
+ika2 = input("Kerro ikäsi: ")
+
+print("Minun nimeni on", nimi, "ja olen", ika, "vuotias."   "Sinun nimesi on", nimi2, "Sinä olet", ika2, "vuotias.")
