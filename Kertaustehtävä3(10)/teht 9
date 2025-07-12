@@ -1,0 +1,9 @@
+"""- Luo sanakirja: pisteet = {}
+- Jokaisella pelikerralla saadaan tieto: pelaaja1, pelaaja2, voittaja
+- Voittaja saa 3 pistettä, häviäjä 0 pistettä, tasapeli = molemmille 1 piste
+- Jos pelaaja ei vielä ole pisteet-sanakirjassa, lisää hänet
+- Lisää pisteet pelaajien kohdalle
+
+Lopuksi:
+- Tulosta kaikkien pisteet
+- Selvitä eniten pisteitä saanut"""
